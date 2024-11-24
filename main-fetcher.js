@@ -1,16 +1,8 @@
-const fs = require('fs')
-const ObjectsToCsv = require('objects-to-csv')
-const token = 'FeGQJeZUdb/3UwD9pa/HO01jgEyP7xeUZi0jvXuCc77KWl1lKg5UuMMIbcogxdhG'
 
-// Tamil Nadu
-const STATE_ID = 133
-
-// 2023-24
-const YEAR_ID = 10
-
-const districtURL = `https://kys.udiseplus.gov.in/api/districts?stateId=${STATE_ID}&yearId=${YEAR_ID}`
-const blockURL = (districtId) => `https://kys.udiseplus.gov.in/api/blocks?districtId=${districtId}&yearId=${YEAR_ID}`
-
+import fs from "fs";
+import { fetchData } from "./utils.js";
+import ObjectsToCsv from "objects-to-csv";
+import { STATE_ID, YEAR_ID } from "./config.js";
 
 const basicSchoolURL = (districtId, blockId) => `https://kys.udiseplus.gov.in/api/search-school/by-region?yearId=${YEAR_ID}&stateId=${STATE_ID}&districtId=${districtId}&blockId=${blockId}&villageId=&clusterId=`
 
@@ -57,114 +49,13 @@ const getSchoolDetailsData = async (udiseCode) => {
     return payload
 }
 
-
-const fetchData = async (url) => {
-    const response = await fetch(url, {
-        headers: {
-            'Token': `${token}`
-        }
-    })
-    const data = await response.json()
-    return data
-}
-
-
-const getDistricts = async () => {
-    const data = await fetchData(districtURL)
-    const { data: districts } = data
-    // console.log(districts)
-    return districts
-}
-const getBlocks = async (districtId) => {
-    const data = await fetchData(blockURL(districtId))
-    const { data: blocks } = data
-    // console.log(blocks)
-    return blocks
-}
-// save the districts and blocks data to json files
-const getBaseJsonFiles = async () => {
-    const districtsData = await getDistricts()
-    fs.writeFileSync('districts.json', JSON.stringify(districtsData, null, 2))
-    const blocks = await Promise.all(districtsData.map(async (district) => {
-        return await getBlocks(district.districtId)
-    }))
-    const blocksData = blocks.flat()
-    fs.writeFileSync('blocks.json', JSON.stringify(blocksData, null, 2))
-    // console.log(blocksData)
-}
-
-// schema of the data
-const testContent = [{
-    udiseschCode: '33320801906',
-    schoolName: 'PUES THAVASUKUZHI',
-    stateId: 133,
-    districtId: 4331,
-    blockId: 43396,
-    villageId: 4211161,
-    clusterId: 4203943,
-    pincode: 621801,
-    schCategoryId: 1,
-    schType: 3,
-    schMgmtId: 1,
-    schMgmtDesc: 'Department of Education',
-    classFrm: 1,
-    classTo: 5,
-    schoolStatus: 0,
-    schoolStatusName: '0-Operational',
-    stateName: 'TAMILNADU',
-    districtName: 'ARIYALUR',
-    blockName: 'ANDIMADAM',
-    clusterName: 'PERIYATHATHUR',
-    villageName: 'VILANTHAI',
-    email: null,
-    address: null,
-    schCatDesc: 'Primary',
-    schLocRuralUrban: 1,
-    schLocDesc: 'Rural',
-    schTypeDesc: '3-Co-educational',
-    schMgmtParentId: 1,
-    schMgmNationalDesc: null,
-    schCategoryType: null,
-    schMgmtType: null,
-    schBroadMgmtId: null,
-    yearId: 10,
-    sessionYear: '2023-24'
-}, {
-    udiseschCode: '33320804201',
-    schoolName: 'PUMS Z.MELUR',
-    stateId: 133,
-    districtId: 4331,
-    blockId: 43396,
-    villageId: 4211184,
-    clusterId: 4203950,
-    pincode: 621803,
-    schCategoryId: 2,
-    schType: 3,
-    schMgmtId: 1,
-    schMgmtDesc: 'Department of Education',
-    classFrm: 1,
-    classTo: 8,
-    schoolStatus: 0,
-    schoolStatusName: '0-Operational',
-    stateName: 'TAMILNADU',
-    districtName: 'ARIYALUR',
-    blockName: 'ANDIMADAM',
-    clusterName: 'KOOVATHUR',
-    villageName: 'Z.MELUR',
-    email: null,
-    address: null,
-    schCatDesc: 'Primary with Upper Primary',
-    schLocRuralUrban: 1,
-    schLocDesc: 'Rural',
-    schTypeDesc: '3-Co-educational',
-    schMgmtParentId: 1,
-    schMgmNationalDesc: null,
-    schCategoryType: null,
-    schMgmtType: null,
-    schBroadMgmtId: null,
-    yearId: 10,
-    sessionYear: '2023-24'
-}]
+  /**
+   * Retrieves data from the basic school API and combines it with data from
+   * the enrolment, school details, and report card APIs
+   * @param {number} districtId - district ID
+   * @param {number} blockId - block ID
+   * @return {Array<Object>} allSchoolData - array of objects with combined data from the four APIs
+   */
 const getSchoolBaseData = async (districtId, blockId) => {
     const data = await fetchData(basicSchoolURL(districtId, blockId))
     const { data: { content } } = data
@@ -175,6 +66,11 @@ const getSchoolBaseData = async (districtId, blockId) => {
     for (let i = 0; i < content.length; i += batchSize) {
         const batch = content.slice(i, i + batchSize);
 
+        /**
+         * Retrieves and combines data from three APIs for a given school
+         * @param {Object} school - school object with udiseschCode, schoolName, pincode, districtName, blockName
+         * @return {Object} payload - combined data from the three APIs
+         */
         const batchPayload = await Promise.all(batch.map(async (school) => {
             let retries = 0;
             while (retries < 10) {
@@ -209,6 +105,17 @@ const getSchoolBaseData = async (districtId, blockId) => {
 }
 
 
+/**
+ * Main function that orchestrates the entire data fetching process
+ * @async
+ * @description
+ * Reads district and block data from JSON files, processes each district-block
+ * combination by fetching school data from the four APIs (basic school, enrolment,
+ * school details, report card), and saves all data to a single CSV file at the end
+ * @example
+ * node main-fetcher.js
+ * @throws {Error} if any of the API calls or CSV saving fails
+ */
 async function main() {
     try {
         // Read district and block data

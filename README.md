@@ -32,8 +32,13 @@ A Node.js script to scrape school data from the UDISE+ (Unified District Informa
    ```bash
    npm install
    ```
-3. Ensure you have the necessary API token for accessing the UDISE+ data.
-4. Run the script:
+3. Ensure you have the necessary API `TOKEN` ,`STATE_ID` and `YEAR_ID` in config.js file
+
+4. Run the script to get Districts and Blocks data:
    ```bash
-   node test.js
+   npm run json-creator
+   ```
+5. Run the script to get school data:
+   ```bash
+   npm run main-fetcher
    ```

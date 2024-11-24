@@ -1,11 +1,14 @@
 {
-  "name": "Help",
+  "name": "udise-scaper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-creator": "node json-creator.js",
+    "main-fetcher": "node main-fetcher.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
