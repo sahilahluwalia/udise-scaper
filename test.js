@@ -18,6 +18,8 @@ const enrolmentURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school-sta
 
 const schoolDetailsURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/by-year?udiseCode=${udiseCode}&action=1`
 
+const reportCardURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/report-card?udiseCode=${udiseCode}`
+
 const getEnrolmentData = async (udiseCode) => {
     // console.log(udiseCode)
     const data = await fetchData(enrolmentURL(udiseCode))
@@ -32,12 +34,25 @@ const getEnrolmentData = async (udiseCode) => {
     return payload
 }
 
+const getReportCardData = async (udiseCode) => {
+    const data = await fetchData(reportCardURL(udiseCode))
+    const { data: reportCardData } = data
+    // console.log(reportCardData)
+    const payload = {
+        stateManagement: reportCardData?.schMgmtStateDesc,
+        schoolCategory: reportCardData?.schCategoryDesc
+    }
+    return payload
+}
+
 const getSchoolDetailsData = async (udiseCode) => {
     const data = await fetchData(schoolDetailsURL(udiseCode))
     const schoolDetailsData = data?.data
     const payload = {
         email: schoolDetailsData?.email,
         address: schoolDetailsData?.address,
+        stateManagement: schoolDetailsData?.schMgmtDesc,
+        schoolCategory: schoolDetailsData?.schCategoryType,
     }
     return payload
 }
@@ -75,7 +90,7 @@ const getBaseJsonFiles = async () => {
     }))
     const blocksData = blocks.flat()
     fs.writeFileSync('blocks.json', JSON.stringify(blocksData, null, 2))
-    console.log(blocksData)
+    // console.log(blocksData)
 }
 
 // schema of the data
@@ -173,7 +188,8 @@ const getSchoolBaseData = async (districtId, blockId) => {
                     }
                     const enrolmentData = await getEnrolmentData(school.udiseschCode)
                     const schoolDetailsData = await getSchoolDetailsData(school.udiseschCode)
-                    return { ...payload, ...enrolmentData, ...schoolDetailsData }
+                    const reportCardData = await getReportCardData(school.udiseschCode)
+                    return { ...payload, ...enrolmentData, ...schoolDetailsData, ...reportCardData }
                 } catch (error) {
                     retries++;
                     if (retries === 10) {
@@ -236,7 +252,7 @@ async function main() {
         // Save all data to a single CSV file at the end
         try {
             const csv = new ObjectsToCsv(allSchoolData)
-            await csv.toDisk('./all_schools_data.csv')
+            await csv.toDisk('./all_schools_data-2.csv')
             console.log(`Successfully saved ${allSchoolData.length} schools to all_schools_data.csv`)
         } catch (error) {
             console.error('Error saving CSV:', error)
