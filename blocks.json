@@ -1,0 +1,4312 @@
+[
+  {
+    "blockId": 43396,
+    "yearId": 10,
+    "districtId": 4331,
+    "blockName": "ANDIMADAM",
+    "udiseBlockCode": "333208",
+    "udiseDistrictCode": "3332",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43395,
+    "yearId": 10,
+    "districtId": 4331,
+    "blockName": "ARIYALUR",
+    "udiseBlockCode": "333207",
+    "udiseDistrictCode": "3332",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43397,
+    "yearId": 10,
+    "districtId": 4331,
+    "blockName": "JAYANKONDAM",
+    "udiseBlockCode": "333209",
+    "udiseDistrictCode": "3332",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43400,
+    "yearId": 10,
+    "districtId": 4331,
+    "blockName": "SENDURAI",
+    "udiseBlockCode": "333205",
+    "udiseDistrictCode": "3332",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43399,
+    "yearId": 10,
+    "districtId": 4331,
+    "blockName": "THIURMANUR",
+    "udiseBlockCode": "333210",
+    "udiseDistrictCode": "3332",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43398,
+    "yearId": 10,
+    "districtId": 4331,
+    "blockName": "T.PALUR",
+    "udiseBlockCode": "333201",
+    "udiseDistrictCode": "3332",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43008,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "ACHARAPAKKAM",
+    "udiseBlockCode": "330310",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43010,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "CHITHAMUR",
+    "udiseBlockCode": "330313",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43006,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "KATTANKOLATHUR",
+    "udiseBlockCode": "330307",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43009,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "LATHUR",
+    "udiseBlockCode": "330312",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43011,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "MADURANTAGAM",
+    "udiseBlockCode": "330311",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43014,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "ST.THOMAS MOUNT(RURAL)",
+    "udiseBlockCode": "330314",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43013,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "ST.THOMAS MOUNT(URBAN)",
+    "udiseBlockCode": "330309",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43007,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "THIRUKALUKUNDRAM",
+    "udiseBlockCode": "330308",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43005,
+    "yearId": 10,
+    "districtId": 4335,
+    "blockName": "THIRUPORUR",
+    "udiseBlockCode": "330306",
+    "udiseDistrictCode": "3336",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43376,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "ADYAR",
+    "udiseBlockCode": "330209",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43423,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "ADYAR",
+    "udiseBlockCode": "330220",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43422,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "ALANDUR",
+    "udiseBlockCode": "330219",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 2
+  },
+  {
+    "blockId": 43418,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "AMBATTUR",
+    "udiseBlockCode": "330215",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 2
+  },
+  {
+    "blockId": 43419,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "ANNA NAGAR",
+    "udiseBlockCode": "330216",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43377,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "EGMORE",
+    "udiseBlockCode": "330207",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43378,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "GEORGE TOWN",
+    "udiseBlockCode": "330201",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43421,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "KODAMBAKKAM",
+    "udiseBlockCode": "330218",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43379,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "MYLAPORE",
+    "udiseBlockCode": "330210",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43380,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "PERAMBUR",
+    "udiseBlockCode": "330204",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43381,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "PERIAMEDU",
+    "udiseBlockCode": "330203",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43382,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "PURASAIWALKKAM",
+    "udiseBlockCode": "330205",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43383,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "ROYAPURAM",
+    "udiseBlockCode": "330202",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43416,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "ROYAPURAM",
+    "udiseBlockCode": "330213",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 2
+  },
+  {
+    "blockId": 43429,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "Royapuram Central",
+    "udiseBlockCode": "330221",
+    "udiseDistrictCode": "3302",
+    "initYear": "2023-24",
+    "isActive": 1
+  },
+  {
+    "blockId": 43430,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "Royapuram North",
+    "udiseBlockCode": "330222",
+    "udiseDistrictCode": "3302",
+    "initYear": "2023-24",
+    "isActive": 1
+  },
+  {
+    "blockId": 43431,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "Royapuram South",
+    "udiseBlockCode": "330223",
+    "udiseDistrictCode": "3302",
+    "initYear": "2023-24",
+    "isActive": 1
+  },
+  {
+    "blockId": 43420,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "TEYNAMPET",
+    "udiseBlockCode": "330217",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43417,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "THIRU VI KA NAGAR",
+    "udiseBlockCode": "330214",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43414,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "THIRUVOTRIYUR",
+    "udiseBlockCode": "330211",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43375,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "T.NAGAR",
+    "udiseBlockCode": "330208",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43415,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "TONDIARPET",
+    "udiseBlockCode": "330212",
+    "udiseDistrictCode": "3302",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43384,
+    "yearId": 10,
+    "districtId": 4329,
+    "blockName": "TRIPLICANE",
+    "udiseBlockCode": "330206",
+    "udiseDistrictCode": "3302",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43164,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "ANAIMALAI",
+    "udiseBlockCode": "331207",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43165,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "ANNUR",
+    "udiseBlockCode": "331215",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43166,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "COIMBATORE CITY",
+    "udiseBlockCode": "331201",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43167,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "KARAMADAI",
+    "udiseBlockCode": "331217",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43168,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "KINATHUKKADAVU",
+    "udiseBlockCode": "331209",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43169,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "MADUKKARAI",
+    "udiseBlockCode": "331202",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43170,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "PERIYANAICKAN PALAYAM",
+    "udiseBlockCode": "331203",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43171,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "PERUR",
+    "udiseBlockCode": "331204",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43172,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "POLLACHI NORTH",
+    "udiseBlockCode": "331211",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43173,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "POLLACHI SOUTH",
+    "udiseBlockCode": "331212",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43174,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "SARKAR SAMAKKULAM",
+    "udiseBlockCode": "331205",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43163,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "SULTHANPET",
+    "udiseBlockCode": "331220",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43175,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "SULUR",
+    "udiseBlockCode": "331221",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43176,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "THONDAMUTHUR",
+    "udiseBlockCode": "331206",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43177,
+    "yearId": 10,
+    "districtId": 4311,
+    "blockName": "VALPARAI",
+    "udiseBlockCode": "331214",
+    "udiseDistrictCode": "3312",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43029,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "ANNAGRAMMAM",
+    "udiseBlockCode": "331802",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43030,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "BHUVANAGIRI",
+    "udiseBlockCode": "331811",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43031,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "CUDDALORE",
+    "udiseBlockCode": "331801",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43032,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "KAMMAPURAM",
+    "udiseBlockCode": "331809",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43033,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "KATTUMANNARKOIL",
+    "udiseBlockCode": "331814",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43034,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "KEERAPALAYAM",
+    "udiseBlockCode": "331812",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43035,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "KUMARATCHI",
+    "udiseBlockCode": "331813",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43036,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "KURINJIPADI",
+    "udiseBlockCode": "331805",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43037,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "MANGALORE",
+    "udiseBlockCode": "331808",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43038,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "NALLUR",
+    "udiseBlockCode": "331807",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43039,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "NEYVELI",
+    "udiseBlockCode": "331804",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43040,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "PANRUTI",
+    "udiseBlockCode": "331803",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43041,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "PARANGIPETTAI",
+    "udiseBlockCode": "331810",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43427,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "SRIMUSHNAM",
+    "udiseBlockCode": "331815",
+    "udiseDistrictCode": "3318",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43042,
+    "yearId": 10,
+    "districtId": 4303,
+    "blockName": "VIRUDHACHALAM",
+    "udiseBlockCode": "331806",
+    "udiseDistrictCode": "3318",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43141,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "DHARMAPURI",
+    "udiseBlockCode": "330501",
+    "udiseDistrictCode": "3305",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43424,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "ERIYUR",
+    "udiseBlockCode": "330509",
+    "udiseDistrictCode": "3305",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43147,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "HARUR",
+    "udiseBlockCode": "330508",
+    "udiseDistrictCode": "3305",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43425,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "KADATHUR",
+    "udiseBlockCode": "330510",
+    "udiseDistrictCode": "3305",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43145,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "KARIMANGALAM",
+    "udiseBlockCode": "330505",
+    "udiseDistrictCode": "3305",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43146,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "MORAPPUR",
+    "udiseBlockCode": "330506",
+    "udiseDistrictCode": "3305",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43142,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "NALLAMPALLI",
+    "udiseBlockCode": "330502",
+    "udiseDistrictCode": "3305",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43144,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "PALACODE",
+    "udiseBlockCode": "330504",
+    "udiseDistrictCode": "3305",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43148,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "PAPPIREDDIPATTI",
+    "udiseBlockCode": "330507",
+    "udiseDistrictCode": "3305",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43143,
+    "yearId": 10,
+    "districtId": 4309,
+    "blockName": "PENNAGARAM",
+    "udiseBlockCode": "330503",
+    "udiseDistrictCode": "3305",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43288,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "ATHOOR",
+    "udiseBlockCode": "331301",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43282,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "BATLAGUNDU",
+    "udiseBlockCode": "331302",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43290,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "DINDIGUL - RURAL",
+    "udiseBlockCode": "331303",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43291,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "DINDIGUL -URBAN",
+    "udiseBlockCode": "331315",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43295,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "GUJILIAMPARAI",
+    "udiseBlockCode": "331304",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43297,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "KODAIKANAL",
+    "udiseBlockCode": "331305",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43283,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "NATHAM",
+    "udiseBlockCode": "331306",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43296,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "NILAKOTTAI",
+    "udiseBlockCode": "331307",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43289,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "ODDANCHATHRAM",
+    "udiseBlockCode": "331308",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43292,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "PALANI - RURAL",
+    "udiseBlockCode": "331309",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43293,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "PALANI - URBAN",
+    "udiseBlockCode": "331316",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43294,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "REDDIYARCHATRAM",
+    "udiseBlockCode": "331310",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43284,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "SANARPATTY",
+    "udiseBlockCode": "331311",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43285,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "THOPPAMPATTY",
+    "udiseBlockCode": "331312",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43286,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "VADAMADURAI",
+    "udiseBlockCode": "331313",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43287,
+    "yearId": 10,
+    "districtId": 4322,
+    "blockName": "VEDASANDUR",
+    "udiseBlockCode": "331314",
+    "udiseDistrictCode": "3313",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43162,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "AMMAPETTAI-ERODE",
+    "udiseBlockCode": "331001",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43158,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "ANTHIYUR",
+    "udiseBlockCode": "331002",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43159,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "BHAVANI",
+    "udiseBlockCode": "331003",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43160,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "BHAVANI SAGAR",
+    "udiseBlockCode": "331004",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43161,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "CHENNIMALAI",
+    "udiseBlockCode": "331005",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43149,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "ERODE",
+    "udiseBlockCode": "331007",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43150,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "GOBI",
+    "udiseBlockCode": "331008",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43151,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "KODUMUDI",
+    "udiseBlockCode": "331010",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43152,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "MODAKURICHI",
+    "udiseBlockCode": "331012",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43153,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "NAMBIYUR",
+    "udiseBlockCode": "331014",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43154,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "PERUNDURAI",
+    "udiseBlockCode": "331015",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43155,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "SATHIYAMANGALAM",
+    "udiseBlockCode": "331016",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43157,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "THALAVADY",
+    "udiseBlockCode": "331017",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43156,
+    "yearId": 10,
+    "districtId": 4310,
+    "blockName": "THUCKANAICKEN PALAYAM",
+    "udiseBlockCode": "331018",
+    "udiseDistrictCode": "3310",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43043,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "CHINNASALEM",
+    "udiseBlockCode": "330718",
+    "udiseDistrictCode": "3334",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43047,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "KALLAKURICHI",
+    "udiseBlockCode": "330717",
+    "udiseDistrictCode": "3334",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43426,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "KALRAYAN HILLS",
+    "udiseBlockCode": "330723",
+    "udiseDistrictCode": "3334",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43053,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "RISHIVANTHIYAM",
+    "udiseBlockCode": "330716",
+    "udiseDistrictCode": "3334",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43060,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "SANKARAPURAM",
+    "udiseBlockCode": "330715",
+    "udiseDistrictCode": "3334",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43054,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "THIRUKOILUR",
+    "udiseBlockCode": "330713",
+    "udiseDistrictCode": "3334",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43055,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "THIRUNAVALUR",
+    "udiseBlockCode": "330722",
+    "udiseDistrictCode": "3334",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43061,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "THIYAGADURGAM",
+    "udiseBlockCode": "330719",
+    "udiseDistrictCode": "3334",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43057,
+    "yearId": 10,
+    "districtId": 4333,
+    "blockName": "ULUNDURPET",
+    "udiseBlockCode": "330721",
+    "udiseDistrictCode": "3334",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43001,
+    "yearId": 10,
+    "districtId": 4301,
+    "blockName": "KANCHEEPURAM",
+    "udiseBlockCode": "330301",
+    "udiseDistrictCode": "3303",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43004,
+    "yearId": 10,
+    "districtId": 4301,
+    "blockName": "KUNDRATHUR",
+    "udiseBlockCode": "330305",
+    "udiseDistrictCode": "3303",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43012,
+    "yearId": 10,
+    "districtId": 4301,
+    "blockName": "SRIPERUMBUDUR",
+    "udiseBlockCode": "330304",
+    "udiseDistrictCode": "3303",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43003,
+    "yearId": 10,
+    "districtId": 4301,
+    "blockName": "UTHIRAMERUR",
+    "udiseBlockCode": "330303",
+    "udiseDistrictCode": "3303",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43002,
+    "yearId": 10,
+    "districtId": 4301,
+    "blockName": "WALAJABAD",
+    "udiseBlockCode": "330302",
+    "udiseDistrictCode": "3303",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43374,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "AGASTHEESWARAM",
+    "udiseBlockCode": "333002",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43371,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "KILLIYOOR",
+    "udiseBlockCode": "333008",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43367,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "KURUNTHANCODE",
+    "udiseBlockCode": "333004",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43370,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "MELPURAM",
+    "udiseBlockCode": "333007",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43372,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "MUNCHIRAI",
+    "udiseBlockCode": "333009",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43366,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "RAJAKKAMANGALAM",
+    "udiseBlockCode": "333003",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43369,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "THIRUVATTAR",
+    "udiseBlockCode": "333006",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43373,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "THOVALAI",
+    "udiseBlockCode": "333001",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43368,
+    "yearId": 10,
+    "districtId": 4328,
+    "blockName": "THUCKALAY",
+    "udiseBlockCode": "333005",
+    "udiseDistrictCode": "3330",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43239,
+    "yearId": 10,
+    "districtId": 4317,
+    "blockName": "ARAVAKURICHI",
+    "udiseBlockCode": "331403",
+    "udiseDistrictCode": "3314",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43238,
+    "yearId": 10,
+    "districtId": 4317,
+    "blockName": "KADAVOOR",
+    "udiseBlockCode": "331406",
+    "udiseDistrictCode": "3314",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43234,
+    "yearId": 10,
+    "districtId": 4317,
+    "blockName": "KARUR",
+    "udiseBlockCode": "331401",
+    "udiseDistrictCode": "3314",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43237,
+    "yearId": 10,
+    "districtId": 4317,
+    "blockName": "K.PARAMATHI",
+    "udiseBlockCode": "331404",
+    "udiseDistrictCode": "3314",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43236,
+    "yearId": 10,
+    "districtId": 4317,
+    "blockName": "KRISHNARAYAPURAM",
+    "udiseBlockCode": "331405",
+    "udiseDistrictCode": "3314",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43235,
+    "yearId": 10,
+    "districtId": 4317,
+    "blockName": "KULITHALAI",
+    "udiseBlockCode": "331407",
+    "udiseDistrictCode": "3314",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43240,
+    "yearId": 10,
+    "districtId": 4317,
+    "blockName": "THANTHONI",
+    "udiseBlockCode": "331402",
+    "udiseDistrictCode": "3314",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43241,
+    "yearId": 10,
+    "districtId": 4317,
+    "blockName": "THOGAIMALAI",
+    "udiseBlockCode": "331408",
+    "udiseDistrictCode": "3314",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43387,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "BARGUR",
+    "udiseBlockCode": "333112",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43390,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "HOSUR",
+    "udiseBlockCode": "333115",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43394,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "KAVERIPATINAM",
+    "udiseBlockCode": "333111",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43391,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "KELAMANGALAM",
+    "udiseBlockCode": "333116",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43386,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "KRISHNAGIRI",
+    "udiseBlockCode": "333110",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43393,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "MATHUR",
+    "udiseBlockCode": "333118",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43389,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "SHOOLAGIRI",
+    "udiseBlockCode": "333114",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43392,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "THALLY",
+    "udiseBlockCode": "333117",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43385,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "UTHANGARAI",
+    "udiseBlockCode": "333109",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43388,
+    "yearId": 10,
+    "districtId": 4330,
+    "blockName": "VEPPANAPALLI",
+    "udiseBlockCode": "333113",
+    "udiseDistrictCode": "3331",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43259,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "ALANGANALLUR",
+    "udiseBlockCode": "332401",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43260,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "CHELLAMPATTI",
+    "udiseBlockCode": "332402",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43261,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "KALLIKUDI",
+    "udiseBlockCode": "332403",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43262,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "KOTTAMPATTI",
+    "udiseBlockCode": "332405",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43273,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "MADURAI EAST",
+    "udiseBlockCode": "332406",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43263,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "MADURAI NORTH",
+    "udiseBlockCode": "332414",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43264,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "MADURAI SOUTH",
+    "udiseBlockCode": "332415",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43265,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "MADURAI WEST",
+    "udiseBlockCode": "332407",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43266,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "MELUR",
+    "udiseBlockCode": "332408",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43267,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "SEDAPATTI",
+    "udiseBlockCode": "332409",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43270,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "THIRUMANGALAM",
+    "udiseBlockCode": "332410",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43271,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "THIRUPARAMKUNDRAM",
+    "udiseBlockCode": "332411",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43269,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "T.KALLUPATTI",
+    "udiseBlockCode": "332404",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43268,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "T.VADIPATTI",
+    "udiseBlockCode": "332413",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43272,
+    "yearId": 10,
+    "districtId": 4320,
+    "blockName": "USILAMPATTI",
+    "udiseBlockCode": "332412",
+    "udiseDistrictCode": "3324",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43206,
+    "yearId": 10,
+    "districtId": 4338,
+    "blockName": "KOLLIDAM",
+    "udiseBlockCode": "331911",
+    "udiseDistrictCode": "3339",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43202,
+    "yearId": 10,
+    "districtId": 4338,
+    "blockName": "KUTHALAM",
+    "udiseBlockCode": "331909",
+    "udiseDistrictCode": "3339",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43207,
+    "yearId": 10,
+    "districtId": 4338,
+    "blockName": "MAYILADUDURAI",
+    "udiseBlockCode": "331907",
+    "udiseDistrictCode": "3339",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43201,
+    "yearId": 10,
+    "districtId": 4338,
+    "blockName": "SEMBANARKOIL",
+    "udiseBlockCode": "331908",
+    "udiseDistrictCode": "3339",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43203,
+    "yearId": 10,
+    "districtId": 4338,
+    "blockName": "SIRKALI",
+    "udiseBlockCode": "331910",
+    "udiseDistrictCode": "3339",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43204,
+    "yearId": 10,
+    "districtId": 4314,
+    "blockName": "KEEZHAIYUR",
+    "udiseBlockCode": "331904",
+    "udiseDistrictCode": "3319",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43205,
+    "yearId": 10,
+    "districtId": 4314,
+    "blockName": "KELVELUR",
+    "udiseBlockCode": "331903",
+    "udiseDistrictCode": "3319",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43197,
+    "yearId": 10,
+    "districtId": 4314,
+    "blockName": "NAGAPATTINAM",
+    "udiseBlockCode": "331901",
+    "udiseDistrictCode": "3319",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43199,
+    "yearId": 10,
+    "districtId": 4314,
+    "blockName": "THALAINAYAR",
+    "udiseBlockCode": "331905",
+    "udiseDistrictCode": "3319",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43198,
+    "yearId": 10,
+    "districtId": 4314,
+    "blockName": "THIRUMARUGAL",
+    "udiseBlockCode": "331902",
+    "udiseDistrictCode": "3319",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43200,
+    "yearId": 10,
+    "districtId": 4314,
+    "blockName": "VEDARANYAM",
+    "udiseBlockCode": "331906",
+    "udiseDistrictCode": "3319",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43133,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "ELACHIPALAYAM",
+    "udiseBlockCode": "330913",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43136,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "ERUMAPATTI",
+    "udiseBlockCode": "330904",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43134,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "KABILARMALAI",
+    "udiseBlockCode": "330915",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43126,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "KOLLIHILLS",
+    "udiseBlockCode": "330902",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43132,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "MALLASAMUDRAM",
+    "udiseBlockCode": "330912",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43127,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "MOHANUR",
+    "udiseBlockCode": "330903",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43137,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "NAMAGIRIPET",
+    "udiseBlockCode": "330909",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43135,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "NAMAKKAL",
+    "udiseBlockCode": "330901",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43131,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "PALLIPALAYAM",
+    "udiseBlockCode": "330911",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43138,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "PARAMATHI",
+    "udiseBlockCode": "330914",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43139,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "PUDUCHATRAM",
+    "udiseBlockCode": "330906",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43129,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "RASIPURAM",
+    "udiseBlockCode": "330907",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43128,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "SENDAMANGALAM",
+    "udiseBlockCode": "330905",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43140,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "TIRUCHENGODE",
+    "udiseBlockCode": "330910",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43130,
+    "yearId": 10,
+    "districtId": 4308,
+    "blockName": "VENNANDUR",
+    "udiseBlockCode": "330908",
+    "udiseDistrictCode": "3309",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43244,
+    "yearId": 10,
+    "districtId": 4318,
+    "blockName": "ALATHUR",
+    "udiseBlockCode": "331606",
+    "udiseDistrictCode": "3316",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43245,
+    "yearId": 10,
+    "districtId": 4318,
+    "blockName": "PERAMBALUR",
+    "udiseBlockCode": "331604",
+    "udiseDistrictCode": "3316",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43243,
+    "yearId": 10,
+    "districtId": 4318,
+    "blockName": "VEPPANTHATTAI",
+    "udiseBlockCode": "331603",
+    "udiseDistrictCode": "3316",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43242,
+    "yearId": 10,
+    "districtId": 4318,
+    "blockName": "VEPPUR",
+    "udiseBlockCode": "331602",
+    "udiseDistrictCode": "3316",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43254,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "ANNAVASAL",
+    "udiseBlockCode": "332202",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43255,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "ARANTHANGI",
+    "udiseBlockCode": "332211",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43252,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "ARIMALAM",
+    "udiseBlockCode": "332210",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43250,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "AVUDAIYARKOIL",
+    "udiseBlockCode": "332213",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43253,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "GANDARVAKKOTTAI",
+    "udiseBlockCode": "332204",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43248,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "KARAMBAKKUDI",
+    "udiseBlockCode": "332207",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43251,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "KUNNANDARKOIL",
+    "udiseBlockCode": "332201",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43256,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "MANAMELKUDI",
+    "udiseBlockCode": "332212",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43257,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "PONNAMARAVATHY",
+    "udiseBlockCode": "332209",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43247,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "PUDUKKOTTAI",
+    "udiseBlockCode": "332205",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43246,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "THIRUMAYAM",
+    "udiseBlockCode": "332208",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43258,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "THIRUVARANKULAM",
+    "udiseBlockCode": "332206",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43249,
+    "yearId": 10,
+    "districtId": 4319,
+    "blockName": "VIRALIMALAI",
+    "udiseBlockCode": "332203",
+    "udiseDistrictCode": "3322",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43299,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "BOGALUR",
+    "udiseBlockCode": "332704",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43300,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "KADALADI",
+    "udiseBlockCode": "332708",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43301,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "KAMUTHI",
+    "udiseBlockCode": "332706",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43302,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "MANDAPAM",
+    "udiseBlockCode": "332711",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43303,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "MUDUKULATHUR",
+    "udiseBlockCode": "332707",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43304,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "NAINARKOIL",
+    "udiseBlockCode": "332705",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43305,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "PARAMAKUDI",
+    "udiseBlockCode": "332703",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43306,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "RAJASINGAMANGALAM",
+    "udiseBlockCode": "332702",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43298,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "RAMANATHAPURAM",
+    "udiseBlockCode": "332709",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43307,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "THIRUPPULLANI",
+    "udiseBlockCode": "332710",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43308,
+    "yearId": 10,
+    "districtId": 4323,
+    "blockName": "THIRUVADANAI",
+    "udiseBlockCode": "332701",
+    "udiseDistrictCode": "3327",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43066,
+    "yearId": 10,
+    "districtId": 4337,
+    "blockName": "ARAKKONAM",
+    "udiseBlockCode": "330401",
+    "udiseDistrictCode": "3338",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43067,
+    "yearId": 10,
+    "districtId": 4337,
+    "blockName": "ARCOT",
+    "udiseBlockCode": "330408",
+    "udiseDistrictCode": "3338",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43074,
+    "yearId": 10,
+    "districtId": 4337,
+    "blockName": "KAVERIPAKKAM",
+    "udiseBlockCode": "330403",
+    "udiseDistrictCode": "3338",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43077,
+    "yearId": 10,
+    "districtId": 4337,
+    "blockName": "NEMILI",
+    "udiseBlockCode": "330402",
+    "udiseDistrictCode": "3338",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43085,
+    "yearId": 10,
+    "districtId": 4337,
+    "blockName": "SHOLINGAR",
+    "udiseBlockCode": "330404",
+    "udiseDistrictCode": "3338",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43080,
+    "yearId": 10,
+    "districtId": 4337,
+    "blockName": "TIMIRI",
+    "udiseBlockCode": "330407",
+    "udiseDistrictCode": "3338",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43086,
+    "yearId": 10,
+    "districtId": 4337,
+    "blockName": "WALAJA EAST",
+    "udiseBlockCode": "330406",
+    "udiseDistrictCode": "3338",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43082,
+    "yearId": 10,
+    "districtId": 4337,
+    "blockName": "WALAJA WEST",
+    "udiseBlockCode": "330405",
+    "udiseDistrictCode": "3338",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43105,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "ATTUR",
+    "udiseBlockCode": "330813",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43122,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "AYOTHIYAPATTINAM",
+    "udiseBlockCode": "330814",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43106,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "EDAPPADI",
+    "udiseBlockCode": "330812",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43107,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "GANGAVALLI",
+    "udiseBlockCode": "330801",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43125,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "KADAYAMPATTI",
+    "udiseBlockCode": "330803",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43109,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "KOLATHUR",
+    "udiseBlockCode": "330815",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43108,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "KONGANAPURAM",
+    "udiseBlockCode": "330805",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43123,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "MAGUNDANCHAVADI",
+    "udiseBlockCode": "330804",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43110,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "MECHERI",
+    "udiseBlockCode": "330816",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43111,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "NANGAVALLI",
+    "udiseBlockCode": "330811",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43112,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "OMALUR",
+    "udiseBlockCode": "330817",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43113,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "PANAMARATHUPATTI",
+    "udiseBlockCode": "330806",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43124,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "PETHANAICKENPALAYAM",
+    "udiseBlockCode": "330802",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43114,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "SALEM-RURAL",
+    "udiseBlockCode": "330809",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43121,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "SALEM-URBAN",
+    "udiseBlockCode": "330821",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43115,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "SANKARI",
+    "udiseBlockCode": "330818",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43116,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "THALAIVASAL",
+    "udiseBlockCode": "330807",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43117,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "THARAMANGALAM",
+    "udiseBlockCode": "330810",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43118,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "VALAPPADI",
+    "udiseBlockCode": "330819",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43119,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "VEERAPANDI",
+    "udiseBlockCode": "330808",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43120,
+    "yearId": 10,
+    "districtId": 4307,
+    "blockName": "YERCAUD",
+    "udiseBlockCode": "330820",
+    "udiseDistrictCode": "3308",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43323,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "DEVAKOTTAI",
+    "udiseBlockCode": "332306",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43329,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "ILAYANGUDI",
+    "udiseBlockCode": "332305",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43331,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "KALAYARKOIL",
+    "udiseBlockCode": "332302",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43328,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "KALLAL",
+    "udiseBlockCode": "332312",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43324,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "KANNANGUDI",
+    "udiseBlockCode": "332307",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43321,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "MANAMADURAI",
+    "udiseBlockCode": "332303",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43325,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "SAKKOTTAI",
+    "udiseBlockCode": "332308",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43326,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "SINGAMPUNARI",
+    "udiseBlockCode": "332310",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43320,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "SIVAGANGAI",
+    "udiseBlockCode": "332301",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43327,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "S.PUDUR",
+    "udiseBlockCode": "332311",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43330,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "THIRUPPATUR",
+    "udiseBlockCode": "332309",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43322,
+    "yearId": 10,
+    "districtId": 4325,
+    "blockName": "THIRUPPUVANAM",
+    "udiseBlockCode": "332304",
+    "udiseDistrictCode": "3323",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43332,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "ALANGULAM",
+    "udiseBlockCode": "332901",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43335,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "KADAYAM",
+    "udiseBlockCode": "332904",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43336,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "KADAYANALLUR",
+    "udiseBlockCode": "332905",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43338,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "KEELAPAVOOR",
+    "udiseBlockCode": "332907",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43339,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "KURUVIKULAM",
+    "udiseBlockCode": "332908",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43341,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "MELANEELITHANALLUR",
+    "udiseBlockCode": "332910",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43346,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "SANKARANKOVIL",
+    "udiseBlockCode": "332915",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43347,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "SHENKOTTAI",
+    "udiseBlockCode": "332916",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43348,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "TENKASI",
+    "udiseBlockCode": "332917",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43350,
+    "yearId": 10,
+    "districtId": 4334,
+    "blockName": "VASUDEVANALLUR",
+    "udiseBlockCode": "332919",
+    "udiseDistrictCode": "3335",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43195,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "AMMAPETTAI-TNJ",
+    "udiseBlockCode": "332109",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43184,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "BUDALUR",
+    "udiseBlockCode": "332104",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43187,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "KUMBAKONAM",
+    "udiseBlockCode": "332107",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43192,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "MADUKKUR",
+    "udiseBlockCode": "332113",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43185,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "ORATHANADU",
+    "udiseBlockCode": "332105",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43188,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "PAPANASAM",
+    "udiseBlockCode": "332108",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43191,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "PATTUKKOTTAI",
+    "udiseBlockCode": "332112",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43193,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "PERAVURANI",
+    "udiseBlockCode": "332114",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43194,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "SETHUBAVACHATRAM",
+    "udiseBlockCode": "332115",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43183,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "THANJAVUR(RURAL)",
+    "udiseBlockCode": "332102",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43182,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "THANJAVUR(URBAN)",
+    "udiseBlockCode": "332101",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43190,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "THIRUPPANANDAL",
+    "udiseBlockCode": "332111",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43196,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "THIRUVAIYAR",
+    "udiseBlockCode": "332103",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43189,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "THIRUVIDAIMARUDHUR",
+    "udiseBlockCode": "332110",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43186,
+    "yearId": 10,
+    "districtId": 4313,
+    "blockName": "THIRUVONAM",
+    "udiseBlockCode": "332106",
+    "udiseDistrictCode": "3321",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43274,
+    "yearId": 10,
+    "districtId": 4321,
+    "blockName": "AUNDIPATTY",
+    "udiseBlockCode": "332501",
+    "udiseDistrictCode": "3325",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43275,
+    "yearId": 10,
+    "districtId": 4321,
+    "blockName": "BODINAYAKANUR",
+    "udiseBlockCode": "332502",
+    "udiseDistrictCode": "3325",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43276,
+    "yearId": 10,
+    "districtId": 4321,
+    "blockName": "CHINNAMANUR",
+    "udiseBlockCode": "332503",
+    "udiseDistrictCode": "3325",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43277,
+    "yearId": 10,
+    "districtId": 4321,
+    "blockName": "CUMBUM",
+    "udiseBlockCode": "332504",
+    "udiseDistrictCode": "3325",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43278,
+    "yearId": 10,
+    "districtId": 4321,
+    "blockName": "MYLADUMPARAI",
+    "udiseBlockCode": "332505",
+    "udiseDistrictCode": "3325",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43281,
+    "yearId": 10,
+    "districtId": 4321,
+    "blockName": "PERIYAKULAM",
+    "udiseBlockCode": "332506",
+    "udiseDistrictCode": "3325",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43279,
+    "yearId": 10,
+    "districtId": 4321,
+    "blockName": "THENI",
+    "udiseBlockCode": "332507",
+    "udiseDistrictCode": "3325",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43280,
+    "yearId": 10,
+    "districtId": 4321,
+    "blockName": "UTHAMAPALAYAM",
+    "udiseBlockCode": "332508",
+    "udiseDistrictCode": "3325",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43179,
+    "yearId": 10,
+    "districtId": 4312,
+    "blockName": "COONOOR",
+    "udiseBlockCode": "331102",
+    "udiseDistrictCode": "3311",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43180,
+    "yearId": 10,
+    "districtId": 4312,
+    "blockName": "GUDALUR",
+    "udiseBlockCode": "331104",
+    "udiseDistrictCode": "3311",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43178,
+    "yearId": 10,
+    "districtId": 4312,
+    "blockName": "KOTAGIRI",
+    "udiseBlockCode": "331103",
+    "udiseDistrictCode": "3311",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43181,
+    "yearId": 10,
+    "districtId": 4312,
+    "blockName": "UDHAGAMANDALAM",
+    "udiseBlockCode": "331101",
+    "udiseDistrictCode": "3311",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43364,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "ALWARTHIRUNAGAR",
+    "udiseBlockCode": "332804",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43353,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "KARUNKULAM",
+    "udiseBlockCode": "332802",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43354,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "KAYATHAR",
+    "udiseBlockCode": "332809",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43355,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "KOVILPATTI",
+    "udiseBlockCode": "332808",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43356,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "OTTAPIDARAM",
+    "udiseBlockCode": "332810",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43357,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "PUDUR",
+    "udiseBlockCode": "332812",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43358,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "SATHANKULAM",
+    "udiseBlockCode": "332807",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43365,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "SRIVAIKUNDAM",
+    "udiseBlockCode": "332803",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43359,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "THIRUCHENTHUR",
+    "udiseBlockCode": "332805",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43360,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "THOOTHUKUDI RURAL",
+    "udiseBlockCode": "332813",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43363,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "THOOTHUKUDI URBAN",
+    "udiseBlockCode": "332801",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43361,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "UDANGUDI",
+    "udiseBlockCode": "332806",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43362,
+    "yearId": 10,
+    "districtId": 4327,
+    "blockName": "VILATHIKULAM",
+    "udiseBlockCode": "332811",
+    "udiseDistrictCode": "3328",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43219,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "ANDHANALLUR",
+    "udiseBlockCode": "331501",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43221,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "LALGUDI",
+    "udiseBlockCode": "331502",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43220,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "MANAPPARAI",
+    "udiseBlockCode": "331505",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43218,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "MANIKANDAM",
+    "udiseBlockCode": "331504",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43222,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "MANNACHANALLUR",
+    "udiseBlockCode": "331503",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43223,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "MARUNGAPURI",
+    "udiseBlockCode": "331506",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43224,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "MUSIRI",
+    "udiseBlockCode": "331507",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43225,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "PULLAMBADI",
+    "udiseBlockCode": "331508",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43232,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "THATHIENGARPET",
+    "udiseBlockCode": "331514",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43228,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "THIRUVERUMBUR",
+    "udiseBlockCode": "331511",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43229,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "THOTTIYAM",
+    "udiseBlockCode": "331512",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43230,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "THURAIYUR",
+    "udiseBlockCode": "331513",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43226,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "TRICHY-URBAN",
+    "udiseBlockCode": "331509",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43227,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "TRICHY-WEST",
+    "udiseBlockCode": "331510",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43233,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "UPPILIYAPURAM",
+    "udiseBlockCode": "331515",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43231,
+    "yearId": 10,
+    "districtId": 4316,
+    "blockName": "VAIYAMPATTI",
+    "udiseBlockCode": "331516",
+    "udiseDistrictCode": "3315",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43333,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "AMBASAMUDRAM",
+    "udiseBlockCode": "332902",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43334,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "CHERANMAHADEVI",
+    "udiseBlockCode": "332903",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43337,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "KALAKAD",
+    "udiseBlockCode": "332906",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43340,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "MANUR",
+    "udiseBlockCode": "332909",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43342,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "NANGUNERI",
+    "udiseBlockCode": "332911",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43343,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "PALAY-RURAL",
+    "udiseBlockCode": "332912",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43351,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "PALAY-URBAN",
+    "udiseBlockCode": "332920",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43344,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "PAPPAKUDI",
+    "udiseBlockCode": "332913",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43345,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "RADHAPURAM",
+    "udiseBlockCode": "332914",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43352,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "TIRUNELVELI URBAN",
+    "udiseBlockCode": "332921",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43349,
+    "yearId": 10,
+    "districtId": 4326,
+    "blockName": "VALLIYOOR",
+    "udiseBlockCode": "332918",
+    "udiseDistrictCode": "3329",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43084,
+    "yearId": 10,
+    "districtId": 4336,
+    "blockName": "ALANGAYAM",
+    "udiseBlockCode": "330418",
+    "udiseDistrictCode": "3337",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43069,
+    "yearId": 10,
+    "districtId": 4336,
+    "blockName": "JOLARPET",
+    "udiseBlockCode": "330420",
+    "udiseDistrictCode": "3337",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43071,
+    "yearId": 10,
+    "districtId": 4336,
+    "blockName": "KANDHILI",
+    "udiseBlockCode": "330422",
+    "udiseDistrictCode": "3337",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43075,
+    "yearId": 10,
+    "districtId": 4336,
+    "blockName": "MADHANUR",
+    "udiseBlockCode": "330417",
+    "udiseDistrictCode": "3337",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43076,
+    "yearId": 10,
+    "districtId": 4336,
+    "blockName": "NATRAMPALLI",
+    "udiseBlockCode": "330419",
+    "udiseDistrictCode": "3337",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43079,
+    "yearId": 10,
+    "districtId": 4336,
+    "blockName": "THIRUPATTUR",
+    "udiseBlockCode": "330421",
+    "udiseDistrictCode": "3337",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43404,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "AVINACI",
+    "udiseBlockCode": "333316",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43413,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "DHARAPURAM",
+    "udiseBlockCode": "333306",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43407,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "GANGAYAM",
+    "udiseBlockCode": "333309",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43411,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "GUNDADAM",
+    "udiseBlockCode": "333311",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43412,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "KUDIMANGALAM",
+    "udiseBlockCode": "333308",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43410,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "MADATHUKULAM",
+    "udiseBlockCode": "333310",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43405,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "MOOLANUR",
+    "udiseBlockCode": "333312",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43401,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "PALLADAM",
+    "udiseBlockCode": "333318",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43408,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "PONGALUR",
+    "udiseBlockCode": "333317",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43428,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "TIRUPPUR SOUTH",
+    "udiseBlockCode": "333323",
+    "udiseDistrictCode": "3333",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "blockId": 43402,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "TIRUPUR",
+    "udiseBlockCode": "333322",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43409,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "UDUMALAIPATTAI",
+    "udiseBlockCode": "333313",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43403,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "UTHUKULI",
+    "udiseBlockCode": "333319",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43406,
+    "yearId": 10,
+    "districtId": 4332,
+    "blockName": "VELLACKOIL",
+    "udiseBlockCode": "333320",
+    "udiseDistrictCode": "3333",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43018,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "ELLAPURAM",
+    "udiseBlockCode": "330104",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43022,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "GUMMIDIPOONDI",
+    "udiseBlockCode": "330108",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43017,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "KADAMBATHUR",
+    "udiseBlockCode": "330103",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43020,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "MINJUR",
+    "udiseBlockCode": "330106",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43027,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "PALLIPAT",
+    "udiseBlockCode": "330113",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43019,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "POONAMALLEE",
+    "udiseBlockCode": "330105",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43016,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "POONDI",
+    "udiseBlockCode": "330102",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43024,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "PUZHAL",
+    "udiseBlockCode": "330110",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43028,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "R.K.PET",
+    "udiseBlockCode": "330114",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43021,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "SHOLAVARAM",
+    "udiseBlockCode": "330107",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43026,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "THIRUVALANGADU",
+    "udiseBlockCode": "330112",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43015,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "THIRUVALLUR",
+    "udiseBlockCode": "330101",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43025,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "TIRUTTANI",
+    "udiseBlockCode": "330111",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43023,
+    "yearId": 10,
+    "districtId": 4302,
+    "blockName": "VILLIVAKKAM",
+    "udiseBlockCode": "330109",
+    "udiseDistrictCode": "3301",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43088,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "ANAKKAVUR",
+    "udiseBlockCode": "330603",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43093,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "ARNI",
+    "udiseBlockCode": "330607",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43102,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "CHENGAM",
+    "udiseBlockCode": "330616",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43097,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "CHETPET",
+    "udiseBlockCode": "330611",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43089,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "CHEYYAR",
+    "udiseBlockCode": "330602",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43104,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "JAWADHU HILLS",
+    "udiseBlockCode": "330618",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43096,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "KALASAPAKKAM",
+    "udiseBlockCode": "330610",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43099,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "KILPENNATHUR",
+    "udiseBlockCode": "330613",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43090,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "PERANAMALLUR",
+    "udiseBlockCode": "330604",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43095,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "POLUR",
+    "udiseBlockCode": "330609",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43101,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "PUDUPALAYAM",
+    "udiseBlockCode": "330615",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43103,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "THANDRAMPET",
+    "udiseBlockCode": "330617",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43091,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "THELLAR",
+    "udiseBlockCode": "330606",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43098,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "THURINJAPURAM",
+    "udiseBlockCode": "330612",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43100,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "TIRUVANNAMALAI",
+    "udiseBlockCode": "330614",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43087,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "VANDAVASI",
+    "udiseBlockCode": "330605",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43092,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "VEMBAKKAM",
+    "udiseBlockCode": "330601",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43094,
+    "yearId": 10,
+    "districtId": 4306,
+    "blockName": "WEST ARNI",
+    "udiseBlockCode": "330608",
+    "udiseDistrictCode": "3306",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43210,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "KORADACHERY",
+    "udiseBlockCode": "332003",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43215,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "KOTTUR",
+    "udiseBlockCode": "332008",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43209,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "KUDAVASAL",
+    "udiseBlockCode": "332002",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43213,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "MANNARGUDI",
+    "udiseBlockCode": "332006",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43217,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "MUTHUPETTAI",
+    "udiseBlockCode": "332010",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43211,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "NANNILAM",
+    "udiseBlockCode": "332004",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43214,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "NEEDAMANGALAM",
+    "udiseBlockCode": "332007",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43216,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "THIRUTHURAIPOONDI",
+    "udiseBlockCode": "332009",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43212,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "THIRUVARUR",
+    "udiseBlockCode": "332005",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43208,
+    "yearId": 10,
+    "districtId": 4315,
+    "blockName": "VALANGAIMAN",
+    "udiseBlockCode": "332001",
+    "udiseDistrictCode": "3320",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43065,
+    "yearId": 10,
+    "districtId": 4305,
+    "blockName": "ANAICUT",
+    "udiseBlockCode": "330412",
+    "udiseDistrictCode": "3304",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43068,
+    "yearId": 10,
+    "districtId": 4305,
+    "blockName": "GUDIYATHAM",
+    "udiseBlockCode": "330415",
+    "udiseDistrictCode": "3304",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43072,
+    "yearId": 10,
+    "districtId": 4305,
+    "blockName": "KANIYAMBADI",
+    "udiseBlockCode": "330411",
+    "udiseDistrictCode": "3304",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43073,
+    "yearId": 10,
+    "districtId": 4305,
+    "blockName": "KATPADI",
+    "udiseBlockCode": "330413",
+    "udiseDistrictCode": "3304",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43070,
+    "yearId": 10,
+    "districtId": 4305,
+    "blockName": "K.V.KUPPAM",
+    "udiseBlockCode": "330414",
+    "udiseDistrictCode": "3304",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43078,
+    "yearId": 10,
+    "districtId": 4305,
+    "blockName": "PERNAMBUT",
+    "udiseBlockCode": "330416",
+    "udiseDistrictCode": "3304",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43081,
+    "yearId": 10,
+    "districtId": 4305,
+    "blockName": "VELLORE RURAL",
+    "udiseBlockCode": "330409",
+    "udiseDistrictCode": "3304",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43083,
+    "yearId": 10,
+    "districtId": 4305,
+    "blockName": "VELLORE URBAN",
+    "udiseBlockCode": "330410",
+    "udiseDistrictCode": "3304",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43044,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "GINGEE",
+    "udiseBlockCode": "330702",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43045,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "KANAI",
+    "udiseBlockCode": "330708",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43046,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "KANDAMANGALAM",
+    "udiseBlockCode": "330711",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43048,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "KOLIYANUR",
+    "udiseBlockCode": "330710",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43049,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "MAILAM",
+    "udiseBlockCode": "330705",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43050,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "MARAKKANAM",
+    "udiseBlockCode": "330706",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43059,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "MELMALAYANUR",
+    "udiseBlockCode": "330701",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43051,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "MUGAIYUR",
+    "udiseBlockCode": "330712",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43052,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "OLAKKUR",
+    "udiseBlockCode": "330704",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43056,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "THIRUVENNAINALLUR",
+    "udiseBlockCode": "330714",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43064,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "VAANUR",
+    "udiseBlockCode": "330707",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43058,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "VALLAM",
+    "udiseBlockCode": "330703",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43062,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "VIKARAVANDI",
+    "udiseBlockCode": "330709",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43063,
+    "yearId": 10,
+    "districtId": 4304,
+    "blockName": "VILUPPURAM",
+    "udiseBlockCode": "330724",
+    "udiseDistrictCode": "3307",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43309,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "ARUPPUKOTTAI",
+    "udiseBlockCode": "332601",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43319,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "KARIYAPATTI",
+    "udiseBlockCode": "332603",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43310,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "NARIKUDI",
+    "udiseBlockCode": "332605",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43311,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "RAJAPALAYAM",
+    "udiseBlockCode": "332606",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43312,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "SATTUR",
+    "udiseBlockCode": "332611",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43313,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "SIVAKASI",
+    "udiseBlockCode": "332609",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43314,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "SRIVILLIPUTHUR",
+    "udiseBlockCode": "332607",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43315,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "THIRUCHULI",
+    "udiseBlockCode": "332604",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43316,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "VEMBAKOTTAI",
+    "udiseBlockCode": "332610",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43318,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "VIRUDHUNAGAR",
+    "udiseBlockCode": "332602",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  },
+  {
+    "blockId": 43317,
+    "yearId": 10,
+    "districtId": 4324,
+    "blockName": "WATRAP",
+    "udiseBlockCode": "332608",
+    "udiseDistrictCode": "3326",
+    "initYear": "2019-20",
+    "isActive": 1
+  }
+]

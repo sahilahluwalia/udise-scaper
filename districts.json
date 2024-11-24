@@ -1,0 +1,382 @@
+[
+  {
+    "districtId": 4331,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "ARIYALUR",
+    "udiseDistrictCode": "3332",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4335,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "CHENGALPATTU",
+    "udiseDistrictCode": "3336",
+    "udiseStateCode": "33",
+    "initYear": "2020-21",
+    "isActive": 1
+  },
+  {
+    "districtId": 4329,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "CHENNAI (EXT. GCC)",
+    "udiseDistrictCode": "3302",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4311,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "COIMBATORE",
+    "udiseDistrictCode": "3312",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4303,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "CUDDALORE",
+    "udiseDistrictCode": "3318",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4309,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "DHARMAPURI",
+    "udiseDistrictCode": "3305",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4322,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "DINDIGUL",
+    "udiseDistrictCode": "3313",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4310,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "ERODE",
+    "udiseDistrictCode": "3310",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4333,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "KALLAKURICHI",
+    "udiseDistrictCode": "3334",
+    "udiseStateCode": "33",
+    "initYear": "2020-21",
+    "isActive": 1
+  },
+  {
+    "districtId": 4301,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "KANCHEEPURAM",
+    "udiseDistrictCode": "3303",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4328,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "KANNIYAKUMARI",
+    "udiseDistrictCode": "3330",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4317,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "KARUR",
+    "udiseDistrictCode": "3314",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4330,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "KRISHNAGIRI",
+    "udiseDistrictCode": "3331",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4320,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "MADURAI",
+    "udiseDistrictCode": "3324",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4338,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "MAYILADUTHURAI",
+    "udiseDistrictCode": "3339",
+    "udiseStateCode": "33",
+    "initYear": "2022-23",
+    "isActive": 1
+  },
+  {
+    "districtId": 4314,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "NAGAPATTINAM",
+    "udiseDistrictCode": "3319",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4308,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "NAMAKKAL",
+    "udiseDistrictCode": "3309",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4318,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "PERAMBALUR",
+    "udiseDistrictCode": "3316",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4319,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "PUDUKKOTTAI",
+    "udiseDistrictCode": "3322",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4323,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "RAMANATHAPURAM",
+    "udiseDistrictCode": "3327",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4337,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "RANIPET",
+    "udiseDistrictCode": "3338",
+    "udiseStateCode": "33",
+    "initYear": "2020-21",
+    "isActive": 1
+  },
+  {
+    "districtId": 4307,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "SALEM",
+    "udiseDistrictCode": "3308",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4325,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "SIVAGANGAI",
+    "udiseDistrictCode": "3323",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4334,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "TENKASI",
+    "udiseDistrictCode": "3335",
+    "udiseStateCode": "33",
+    "initYear": "2020-21",
+    "isActive": 1
+  },
+  {
+    "districtId": 4313,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "THANJAVUR",
+    "udiseDistrictCode": "3321",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4321,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "THENI",
+    "udiseDistrictCode": "3325",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4312,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "THE NILGIRIS",
+    "udiseDistrictCode": "3311",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4327,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "THOOTHUKKUDI",
+    "udiseDistrictCode": "3328",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4316,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "TIRUCHIRAPPALLI",
+    "udiseDistrictCode": "3315",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4326,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "TIRUNELVELI",
+    "udiseDistrictCode": "3329",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4336,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "TIRUPATHUR",
+    "udiseDistrictCode": "3337",
+    "udiseStateCode": "33",
+    "initYear": "2020-21",
+    "isActive": 1
+  },
+  {
+    "districtId": 4332,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "TIRUPPUR",
+    "udiseDistrictCode": "3333",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4302,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "TIRUVALLUR",
+    "udiseDistrictCode": "3301",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4306,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "TIRUVANNAMALAI",
+    "udiseDistrictCode": "3306",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4315,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "TIRUVARUR",
+    "udiseDistrictCode": "3320",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4305,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "VELLORE",
+    "udiseDistrictCode": "3304",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4304,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "VILLUPURAM",
+    "udiseDistrictCode": "3307",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  },
+  {
+    "districtId": 4324,
+    "yearId": 10,
+    "stateId": 133,
+    "districtName": "VIRUDHUNAGAR",
+    "udiseDistrictCode": "3326",
+    "udiseStateCode": "33",
+    "initYear": "2018-19",
+    "isActive": 1
+  }
+]
