@@ -18,7 +18,7 @@ const enrolmentURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school-sta
 const schoolDetailsURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/by-year?udiseCode=${udiseCode}&action=1`
 
 const getEnrolmentData = async (udiseCode) => {
-    console.log(udiseCode)
+    // console.log(udiseCode)
     const data = await fetchData(enrolmentURL(udiseCode))
     // console.log(data)
     const { data: enrolmentData } = data
@@ -148,71 +148,101 @@ const testContene = [{
     }]
 const getSchoolBaseData = async (districtId, blockId) => {
     const data = await fetchData(basicSchoolURL(districtId, blockId))
-
     const { data: { content } } = data
-    // console.log(content)
-    const payload = await Promise.all(content.map(async (school) => {
-        const payload = {
-            schoolName: school.schoolName,
-            pinCode: school.pincode,
-            districtName: school.districtName,
-            blockName: school.blockName,
-            udiseschCode: school.udiseschCode,
-        }
-        const enrolmentData = await getEnrolmentData(school.udiseschCode)
-        const schoolDetailsData = await getSchoolDetailsData(school.udiseschCode)
-        return { ...payload, ...enrolmentData, ...schoolDetailsData }
-    }))
-    // console.log(payload)
-    // const payload = content[0]
-    // const content = schoolData
-    // // payload = schoolData
-    // // console.log(payload)
-    // const payload = {
-    //     schoolName: content.schoolName,
-    //     pinCode: content.pincode,
-    //     districtName: content.districtName,
-    //     blockName: content.blockName,
-    //     udiseschCode: content.udiseschCode,
-    // }
-    // const enrolmentData = await getEnrolmentData(payload.udiseschCode)
-    // const schoolDetailsData = await getSchoolDetailsData(Number(payload.udiseschCode))
-    // const lastPayload = { ...payload, ...enrolmentData, ...schoolDetailsData }
-    // console.log(data)
 
-    // const payload = content.map(async (school) => {
-    //     const enrolmentData = await getEnrolmentData(school.udiseCode)
-    //     const schoolDetailsData = await getSchoolDetailsData(school.udiseCode)
-    //     return { ...school, ...enrolmentData, ...schoolDetailsData }
-    // })
-    // content is an array of school objects
-    // const payload = {
-    //     schoolName: content.schoolName,
-    //     pinCode: content.pinCode,
-    //     districtName: content.districtName,
-    //     blockName: content.blockName,
-    //     udiseCode: content.udiseCode,
-    // }
-    // const enrolmentData = await getEnrolmentData(content.udiseCode)
-    // const schoolDetailsData = await getSchoolDetailsData(content.udiseCode)
-    // payload = { ...payload, ...enrolmentData, ...schoolDetailsData }
-    // console.log(payload)
-    // return lastPayload
-    return payload
+    const batchSize = 50;
+    let allSchoolData = [];
+
+    for (let i = 0; i < content.length; i += batchSize) {
+        const batch = content.slice(i, i + batchSize);
+
+        const batchPayload = await Promise.all(batch.map(async (school) => {
+            let retries = 0;
+            while (retries < 10) {
+                try {
+                    const payload = {
+                        schoolName: school.schoolName,
+                        pinCode: school.pincode,
+                        districtName: school.districtName,
+                        blockName: school.blockName,
+                        udiseschCode: school.udiseschCode,
+                    }
+                    const enrolmentData = await getEnrolmentData(school.udiseschCode)
+                    const schoolDetailsData = await getSchoolDetailsData(school.udiseschCode)
+                    return { ...payload, ...enrolmentData, ...schoolDetailsData }
+                } catch (error) {
+                    retries++;
+                    if (retries === 10) {
+                        console.error(`Failed after 10 retries for school ${school.udiseschCode}:`, error)
+                        process.exit(1) // Exit if we can't get data after 10 retries
+                    }
+                    console.log(`Retry ${retries}/10 for school ${school.udiseschCode}`)
+                    await new Promise(resolve => setTimeout(resolve, 1000 * retries)) // Exponential backoff
+                }
+            }
+        }));
+
+        allSchoolData = [...allSchoolData, ...batchPayload];
+    }
+
+    return allSchoolData;
 }
 
 const ObjectsToCsv = require('objects-to-csv')
 
 async function main() {
-    // to get districts and blocks data
-    // await getBaseJsonFiles()
-    const schoolData = await getSchoolBaseData(4331, 43396)
-    // const object
-    // write to csv file
-    const csv = new ObjectsToCsv(schoolData)
-    await csv.toDisk('./schoolData.csv')
+    try {
+        // Read district and block data
+        const blocks = await fs.readFileSync('blocks.json', 'utf8')
+        const blocksData = JSON.parse(blocks)
+        const districts = await fs.readFileSync('districts.json', 'utf8')
+        const districtsData = JSON.parse(districts)
 
-    // console.log(schoolData)
+        let allSchoolData = []
+
+        // Process each district-block combination
+        for (const district of districtsData) {
+            const districtBlocks = blocksData.filter(block =>
+                block.districtId === district.districtId && block.isActive === 1
+            )
+
+            console.log(`Processing district: ${district.districtName} (${districtBlocks.length} blocks)`)
+
+            for (const block of districtBlocks) {
+                console.log(`Processing block: ${block.blockName}`)
+                let retries = 0;
+                while (retries < 10) {
+                    try {
+                        const schoolData = await getSchoolBaseData(district.districtId, block.blockId)
+                        allSchoolData = [...allSchoolData, ...schoolData]
+                        console.log(`Processed ${schoolData.length} schools from ${block.blockName}`)
+                        break; // Success, exit retry loop
+                    } catch (error) {
+                        retries++;
+                        if (retries === 10) {
+                            console.error(`Failed after 10 retries for block ${block.blockName}:`, error)
+                            process.exit(1) // Exit if we can't get data after 10 retries
+                        }
+                        console.log(`Retry ${retries}/10 for block ${block.blockName}`)
+                        await new Promise(resolve => setTimeout(resolve, 1000 * retries)) // Exponential backoff
+                    }
+                }
+            }
+        }
+
+        // Save all data to a single CSV file at the end
+        try {
+            const csv = new ObjectsToCsv(allSchoolData)
+            await csv.toDisk('./all_schools_data.csv')
+            console.log(`Successfully saved ${allSchoolData.length} schools to all_schools_data.csv`)
+        } catch (error) {
+            console.error('Error saving CSV:', error)
+            process.exit(1) // Exit if we can't save the data
+        }
+    } catch (error) {
+        console.error('Fatal error:', error)
+        process.exit(1)
+    }
 }
 async function run() {
     await main()
