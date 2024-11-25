@@ -1,4 +1,3 @@
-
 import fs from "fs";
 import { fetchData } from "./utils.js";
 import ObjectsToCsv from "objects-to-csv";
@@ -6,11 +5,29 @@ import { STATE_ID, YEAR_ID } from "./config.js";
 
 const basicSchoolURL = (districtId, blockId) => `https://kys.udiseplus.gov.in/api/search-school/by-region?yearId=${YEAR_ID}&stateId=${STATE_ID}&districtId=${districtId}&blockId=${blockId}&villageId=&clusterId=`
 
+const reportCardURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/report-card?udiseCode=${udiseCode}`
+
+
+const facilityURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/facility?udiseCode=${udiseCode}`
+
 const enrolmentURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school-statistics/enrolment-teacher?udiseCode=${udiseCode}`
 
-const schoolDetailsURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/by-year?udiseCode=${udiseCode}&action=1`
+const profileURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/profile?udiseCode=${udiseCode}`
 
-const reportCardURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/report-card?udiseCode=${udiseCode}`
+const yearURL = (udiseCode) => `https://kys.udiseplus.gov.in/api/school/by-year?udiseCode=${udiseCode}&action=1`
+
+const getFacilityData = async (udiseCode) => {
+    const data = await fetchData(facilityURL(udiseCode))
+    const { data: facilityData } = data
+    return facilityData
+}
+
+const getProfileData = async (udiseCode) => {
+    const data = await fetchData(profileURL(udiseCode))
+    const { data: profileData } = data
+    return profileData
+}
+
 
 const getEnrolmentData = async (udiseCode) => {
     // console.log(udiseCode)
@@ -18,44 +35,29 @@ const getEnrolmentData = async (udiseCode) => {
     // console.log(data)
     const { data: enrolmentData } = data
     // console.log(enrolmentData)
-    const payload = {
-        totalBoy: enrolmentData?.totalBoy,
-        totalGirl: enrolmentData?.totalGirl,
-        totalCount: enrolmentData?.totalCount,
-    }
-    return payload
+    return enrolmentData
 }
 
 const getReportCardData = async (udiseCode) => {
     const data = await fetchData(reportCardURL(udiseCode))
     const { data: reportCardData } = data
     // console.log(reportCardData)
-    const payload = {
-        stateManagement: reportCardData?.schMgmtStateDesc,
-        schoolCategory: reportCardData?.schCategoryDesc
-    }
-    return payload
+    return reportCardData
 }
 
 const getSchoolDetailsData = async (udiseCode) => {
-    const data = await fetchData(schoolDetailsURL(udiseCode))
-    const schoolDetailsData = data?.data
-    const payload = {
-        email: schoolDetailsData?.email,
-        address: schoolDetailsData?.address,
-        stateManagement: schoolDetailsData?.schMgmtDesc,
-        schoolCategory: schoolDetailsData?.schCategoryType,
-    }
-    return payload
+    const data = await fetchData(yearURL(udiseCode))
+    const { data: schoolDetailsData } = data
+    return schoolDetailsData
 }
 
-  /**
-   * Retrieves data from the basic school API and combines it with data from
-   * the enrolment, school details, and report card APIs
-   * @param {number} districtId - district ID
-   * @param {number} blockId - block ID
-   * @return {Array<Object>} allSchoolData - array of objects with combined data from the four APIs
-   */
+/**
+ * Retrieves data from the basic school API and combines it with data from
+ * the enrolment, school details, and report card APIs
+ * @param {number} districtId - district ID
+ * @param {number} blockId - block ID
+ * @return {Array<Object>} allSchoolData - array of objects with combined data from the four APIs
+ */
 const getSchoolBaseData = async (districtId, blockId) => {
     const data = await fetchData(basicSchoolURL(districtId, blockId))
     const { data: { content } } = data
@@ -75,17 +77,12 @@ const getSchoolBaseData = async (districtId, blockId) => {
             let retries = 0;
             while (retries < 10) {
                 try {
-                    const payload = {
-                        schoolName: school.schoolName,
-                        pinCode: school.pincode,
-                        districtName: school.districtName,
-                        blockName: school.blockName,
-                        udiseschCode: school.udiseschCode,
-                    }
                     const enrolmentData = await getEnrolmentData(school.udiseschCode)
                     const schoolDetailsData = await getSchoolDetailsData(school.udiseschCode)
                     const reportCardData = await getReportCardData(school.udiseschCode)
-                    return { ...payload, ...enrolmentData, ...schoolDetailsData, ...reportCardData }
+                    const facilityData = await getFacilityData(school.udiseschCode)
+                    const profileData = await getProfileData(school.udiseschCode)
+                    return { ...school, ...enrolmentData, ...schoolDetailsData, ...reportCardData, ...facilityData, ...profileData }
                 } catch (error) {
                     retries++;
                     if (retries === 10) {
